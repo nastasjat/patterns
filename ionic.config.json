@@ -1,0 +1,7 @@
+{
+  "name": "patterns",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
